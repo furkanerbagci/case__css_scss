@@ -1,0 +1,6 @@
+@media screen and (max-width: 600px) {
+  .categories,
+  .navbar_items {
+    display: none; }
+  .footer_up {
+    flex-direction: column; } }
